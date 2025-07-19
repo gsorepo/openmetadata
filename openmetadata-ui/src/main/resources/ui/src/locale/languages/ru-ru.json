@@ -227,6 +227,7 @@
     "column": "Столбец",
     "column-description": "Описание столбца",
     "column-entity": "Столбец {{entity}}",
+    "column-level": "Уровень столбца",
     "column-level-lineage": "Уровень происхождения столбца",
     "column-lowercase": "столбец",
     "column-lowercase-plural": "столбцы",
